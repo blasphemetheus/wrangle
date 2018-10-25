@@ -1,0 +1,2 @@
+# wrangle
+Files dedicated to creating a tool to leverage VMAF - Netflix's open-source video quality assessment algorithm (https://github.com/Netflix/vmaf) to compare videos. One thing it will do is pull out a representative 10 frames from two local videos and provide feedback based on that.  This repo will also contain 1) a set of instructions on how to you use the tool, 2) Research on how best to interpret the results. This will be done by December 14 . I'll explore a browser-based version of the tool (Javascript with JQuery and Node.js possibly), and a golang version.

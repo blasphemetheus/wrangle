@@ -52,6 +52,12 @@ Next, once we figure out how to store the files and reference them, we got to fi
 
     These samples shouldn't be one frame, they should be lets say 10 frame samples. Idk. That's arbitrary.
 
+#Doing (we have to run VMAF on these files) (comparing a master to a subject and outputting a JSON with all of the scores and such)
+- integrate with FFMPEG (stream, files)
+- integrate with VMAF library (also in the system, on the server so it can be run)
+- tell VMAF to run what on what files (and read the output where?)
+
+
 And finally, we want to present the findings that we have in a way where we can interpret them and draw conclusions from them.
 
 #Presentation
